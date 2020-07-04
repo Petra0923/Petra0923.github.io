@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Quicksand";
+    src: url("fonts/static/Quicksand-Regular.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Quicksand-light";
+    src: url("fonts/static/Quicksand-SemiBold.ttf");
+    font-weight: 500;
+}
+h1 {
+    color: blueviolet;
+    font-family: "Quicksand";
+    text-align: left;
+    }
+
+p {
+    color:darkolivegreen;
+    font size: 24px;
+    font-family: "Quicksand-light";
+    text-align: left;
+    line-hight: normal;
+    font-weight: bolder;
+}
+
+img {
+    width: 200px;
+    margin: 20px;
+}
